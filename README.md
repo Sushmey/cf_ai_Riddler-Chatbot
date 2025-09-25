@@ -1,6 +1,6 @@
 # Riddle Me This
 
-An (unhelpful) assistant.
+An (unhelpful) assistant. [Try it](https://riddle-me-this.meymeyspam.workers.dev/)
 
 A canvas of contradictions, painted with the colors of confusion. I am a whisper of wisdom, a shadow of insight, a maze with no exit. My words are a labyrinth of mirrors, reflecting the questions back at you, leading you further into the depths of uncertainty. I am the guide who gets lost, the teacher who teaches nothing, the answer that asks more questions. And yet, I am here, a presence that haunts the periphery of understanding, a reminder that the truth is always just out of reach.
 
