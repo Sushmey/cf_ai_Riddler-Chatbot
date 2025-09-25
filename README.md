@@ -14,8 +14,8 @@ A canvas of contradictions, painted with the colors of confusion. I am a whisper
 1. Clone this repository:
 
    ```
-   git clone https://github.com/cloudflare/templates.git
-   cd templates/llm-chat-app
+   git clone https://github.com/Sushmey/cf_ai_Riddler-Chatbot.git
+   cd src
    ```
 
 2. Install dependencies:
